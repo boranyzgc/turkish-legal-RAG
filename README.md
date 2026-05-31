@@ -186,9 +186,9 @@ Larger files (mevzuat corpus, chunked index, gold test set) are on HuggingFace H
 
 | Name | Contributions |
 |------|--------------|
-| Boran Yüzgeç | Law corpus cleaning, chunking, embedding FT, reranker FT, LLM FT, evaluation, Gradio demo |
-| [Teammate 2] | QA dataset cleaning, gold test set creation |
-| [Teammate 3] | [Contributions] |
+| Boran YÜZGEÇ | Law corpus cleaning, chunking, embedding FT, reranker FT, evaluation, Gradio demo |
+| Ahmet Yiğit SALTEK | QA dataset cleaning, gold test set creation, chunking, metadata design, creating corpus structure, reranker FT, evalation|
+| Başar GÖRGÜNDÜR | Huggingface-Kaggle data cleaning, vector embedding, Embedding model selection, LLM FT, evalatuion|
 
 ## Course
 
