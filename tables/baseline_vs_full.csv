@@ -1,0 +1,3 @@
+System,N,Recall@5,Recall@10,MRR,nDCG@10,F1,ROUGE-L,AnswerQuality(LLM),Faithfulness,Hallucination
+1_Baseline_RAG,161,0.7341,0.8206,0.5752,0.6345,0.4389,0.5258,0.5811,0.7519,0.2481
+5_Full_System,161,0.9281,0.9479,0.8457,0.8724,0.4391,0.5231,0.582,0.7581,0.2419
