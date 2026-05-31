@@ -1,3 +1,7 @@
+# Demo
+https://colab.research.google.com/drive/1GlxbI32wsaxBSS_kd9kXCW0I_JxqJx3e?usp=sharing
+
+
 # Turkish Legal RAG System
 
 A Retrieval-Augmented Generation (RAG) system for Turkish legal question answering, built with domain-specific fine-tuning at every pipeline stage.
