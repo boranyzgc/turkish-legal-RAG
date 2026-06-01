@@ -72,7 +72,13 @@ turkish-legal-rag/
     ├── kaggle_train_clean.jsonl       # Cleaned Kaggle QA training set (11,488 samples)
     ├── kaggle_test_clean.jsonl        # Cleaned Kaggle QA test set (1,277 samples)
     ├── hf_train_clean.jsonl           # Cleaned HuggingFace QA training set (13,113 samples)
-    └── hf_test_clean.jsonl            # Cleaned HuggingFace QA test set (1,469 samples)
+    ├── hf_test_clean.jsonl            # Cleaned HuggingFace QA test set (1,469 samples)
+    ├── mevzuat_chunked0v2_normalized.json
+    ├── embedding_train_synthetic.json
+    ├── gold_test_matched_161_mastered_v02_filled.json└──
+    ├── hard_negative_tur2.json
+    └── data_README.md
+
 ```
 
 > **Note:** Large files (mevzuat corpus, chunked index, gold test set, fine-tuned models) are hosted on HuggingFace Hub — see [Models & Data](#models--data) section.
@@ -155,9 +161,8 @@ pip install -r requirements.txt
 
 ### Running the Demo
 Open `notebooks/07_demo.ipynb` in Google Colab (A100 GPU recommended):
-1. Add your HuggingFace token to Colab Secrets as `HF_TOKEN`
-2. Run all cells
-3. Open the Gradio share link
+1. Run all cells
+2. Open the Gradio share link
 
 ### Reproducing Training
 Each notebook is self-contained and runs on Google Colab Pro+ (A100 80GB).  
