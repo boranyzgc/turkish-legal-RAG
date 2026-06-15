@@ -1,5 +1,5 @@
 # Demo
-https://colab.research.google.com/drive/1GlxbI32wsaxBSS_kd9kXCW0I_JxqJx3e?usp=sharing
+https://colab.research.google.com/drive/1kndzBiwDdjzGdu3vK1z2N_ElI41osg_x?usp=sharing
 
 
 # Turkish Legal RAG System
